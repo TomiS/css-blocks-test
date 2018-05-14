@@ -1,0 +1,10 @@
+build
+node_modules
+npm-debug.log
+.DS_Store
+.babelCache
+jestcache
+yarn-error.log
+*.code-workspace
+.vscode
+.history
