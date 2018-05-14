@@ -4,7 +4,9 @@ import { hot } from 'react-hot-loader';
 
 import styles from './MyComponent.block.css';
 
-class MyComponent extends React.Component<void> {
+type Props = {};
+
+class MyComponent extends React.Component<Props> {
   render() {
     return (
       <div>
